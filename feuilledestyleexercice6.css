@@ -1,54 +1,47 @@
+div {
+  float:left;
+  height:50px; <!-- si on remet la propriété height plus bas celle là va être écrassé ! -->
+}
 .vert {
 width:80%;
-height: 20px;
-background: #2ECC71;
-float: left;
+background-color: #2ECC71;
 }
 .bleu {
 width:20%;
-height: 20px;
 background: #2980B9;
-float: right;
 }
 .rouge {
+height:150px;
 width:34%;
-height: 50px;
 background: #E74C3C;
-float: left;
 }
 .orange {
+height:75px;
 width:33%;
-height: 25px;
 background: #E67E22;
-float: left;
 }
 .gris {
+height:75px;
 width:33%;
-height: 25px;
 background: #95A5A6;
-float: left;
 }
 .jaune {
+height:75px;
 width:22%;
-height: 25px;
 background: #F39C12;
-float: left;
 }
 .turquoise {
+height:75px;
 width:22%;
-height: 25px;
-background: #D35400;
-float: left;
+background: #16A085;
 }
 .orangefoncé {
+height:75px;
 width:22%;
-height: 25px;
 background: #D35400;
-float: left;
 }
 .bleufoncé {
+height:170px;
 width:100%;
-height: 60px;
 background: #2C3E50;
-float: left;
 }
